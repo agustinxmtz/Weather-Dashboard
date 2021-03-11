@@ -52,7 +52,27 @@
 }
 
 .forecast-card {
-    background-color:  rgb(74, 180, 237);
+    font-size: small;
+
+    background-color: #FA8BFF;
+  background-image: linear-gradient(180deg, #2BD2FF 52%, #2BFF88 90%);
+  transition-property: all;
+  /* transition: all 5s ease-out; */
+  transition-duration: 2s;
+  background-size: contain;
+background-repeat: no-repeat;
+  
+}
+
+.forecast-card:hover {
+    font-size: large;
+    background-color: #FA8BFF;
+  background-image: linear-gradient(180deg, #FA8BFF 52%, #2BD2FF 90%);
+  /* transition: all 2s ease-in-out; */
+  /* transition-duration: 3s; */
+  /* transition-property: all; */
+  background-size: contain;
+background-repeat: no-repeat;
 }
 
 #forecast-container {
