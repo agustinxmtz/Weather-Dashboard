@@ -2,7 +2,7 @@
   ## Description
   This is a simple weather dashboard to display current weather conditions along with a 5-day forecast for the city entered. Recent cities searched are displayed as buttons for quick access.
   ## Screenshot
-  <img src = "./assets/images/weather.png"/>
+  <img src = "./assets/Images/Weather.png"/>
 
   ## Deployed application link
   * https://agustinxmtz.github.io/Weather-Dashboard/
